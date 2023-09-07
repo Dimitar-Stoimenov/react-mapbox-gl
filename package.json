@@ -1,5 +1,5 @@
 {
-  "name": "react-mapbox-gl",
+  "name": "@dimitar-stoimenov/react-mapbox-gl",
   "version": "5.1.1",
   "description": "A React binding of mapbox-gl-js",
   "main": "lib/index.js",
