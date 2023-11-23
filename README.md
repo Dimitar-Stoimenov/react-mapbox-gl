@@ -1,3 +1,5 @@
+react-mapbox-gl fork with added touchEnd functionality to the Feature component to allow mobile devices to click on it
+
 ![Logo](/logo.png)
 
 # React-mapbox-gl | [Documentation](docs/API.md) | [Demos](http://alex3165.github.io/react-mapbox-gl/demos)
